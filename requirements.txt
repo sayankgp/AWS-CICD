@@ -7,5 +7,6 @@ catboost
 xgboost
 Flask
 matplotlib
-
+time
+nltk
 -e .
